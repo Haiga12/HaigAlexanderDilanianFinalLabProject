@@ -70,9 +70,9 @@ public class UserInterface extends Application{//Initializing everything that's 
         Label confirmationLabel = new Label();
         TextField withdrawalField = new TextField();
         Button withdrawalButton = new Button("Withdrawal");
-        Button reportButton = new Button("Generate Report");
+        Button reportButton = new Button("Make Report");
         TextArea reportTextArea = new TextArea();
-        Button backButton = new Button("Back to Menu");
+        Button backButton = new Button("Back to Banking Menu");
 
         // VBox layout
         VBox savingsLayout = new VBox(10);
@@ -124,9 +124,9 @@ public class UserInterface extends Application{//Initializing everything that's 
         Label confirmationLabel = new Label();
         TextField withdrawalField = new TextField();
         Button withdrawalButton = new Button("Withdrawal");
-        Button reportButton = new Button("Generate Report");
+        Button reportButton = new Button("Make Report");
         TextArea reportTextArea = new TextArea();
-        Button backButton = new Button("Back to Menu");
+        Button backButton = new Button("Back to Banking Menu");
 
         // VBox Layout
         VBox chequingLayout = new VBox(10);
